@@ -1,0 +1,390 @@
+2025-03-16 13:24:28,778 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:24:28,778 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:24:28,778 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001A77F751850>}
+2025-03-16 13:24:28,778 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:24:28,778 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:24:28,782 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:24:37,794 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:24:37,794 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:24:37,794 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x00000250190640E0>}
+2025-03-16 13:24:37,794 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:24:37,794 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:24:37,794 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:24:47,133 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:24:47,133 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:24:47,133 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001F05FE4E330>}
+2025-03-16 13:24:47,133 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:24:47,133 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:24:47,133 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:24:55,975 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:24:55,975 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:24:55,975 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001887FC83620>}
+2025-03-16 13:24:55,975 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:24:55,977 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:24:55,977 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:25:04,726 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:25:04,727 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:25:04,727 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x00000167E56F6330>}
+2025-03-16 13:25:04,727 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:25:04,727 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:25:04,727 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:25:13,589 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:25:13,589 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:25:13,589 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001A5A6ABD5B0>}
+2025-03-16 13:25:13,589 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:25:13,589 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:25:13,597 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:25:22,446 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:25:22,446 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:25:22,446 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001556F40CD10>}
+2025-03-16 13:25:22,446 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:25:22,447 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:25:22,448 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:28:24,814 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:28:24,814 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:28:24,816 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001D12861EAB0>}
+2025-03-16 13:28:24,816 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:28:24,816 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:28:24,818 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:28:33,827 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:28:33,828 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:28:33,828 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001F532532540>}
+2025-03-16 13:28:33,828 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:28:33,828 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:28:33,830 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:28:42,492 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:28:42,494 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:28:42,494 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000002374C816870>}
+2025-03-16 13:28:42,494 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:28:42,495 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:28:42,495 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:28:51,047 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:28:51,048 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:28:51,049 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001C5DCA6A480>}
+2025-03-16 13:28:51,049 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:28:51,049 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:28:51,049 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:31:17,646 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:31:17,648 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:31:17,648 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x0000019B29FADBE0>}
+2025-03-16 13:31:17,648 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:31:17,648 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:31:17,648 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:31:26,305 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:31:26,307 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:31:26,307 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x0000022C8416D5B0>}
+2025-03-16 13:31:26,307 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:31:26,307 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:31:26,307 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:31:34,508 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:31:34,508 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:31:34,508 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001E47F0B6510>}
+2025-03-16 13:31:34,508 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:31:34,508 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:31:34,508 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:31:42,803 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:31:42,803 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:31:42,803 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001911FECDBE0>}
+2025-03-16 13:31:42,803 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:31:42,803 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:31:42,803 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:31:51,217 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:31:51,217 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:31:51,217 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001F7B4AE6510>}
+2025-03-16 13:31:51,218 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:31:51,218 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:31:51,218 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:32:00,505 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:32:00,505 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:32:00,505 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001FBAC6916D0>}
+2025-03-16 13:32:00,506 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:32:00,506 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:32:00,506 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:32:09,205 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:32:09,205 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:32:09,205 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001B0DAB296D0>}
+2025-03-16 13:32:09,205 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:32:09,205 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:32:09,211 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:32:18,017 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:32:18,020 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:32:18,020 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x0000027D76DACEC0>}
+2025-03-16 13:32:18,020 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:32:18,020 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:32:18,021 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:37:04,852 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:37:04,852 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:37:04,854 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x0000016A7EE6DBE0>}
+2025-03-16 13:37:04,854 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:37:04,854 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:37:04,855 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:37:04,873 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-16 13:37:04,930 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-16 13:37:27,440 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x0000016A7F6EC7A0>
+2025-03-16 13:37:27,440 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-03-16 13:37:27,440 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-03-16 13:37:27,440 - mcp-trends - DEBUG - Listing all available tools...
+2025-03-16 13:37:27,440 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-16 13:38:02,601 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x0000016A7F8AB830>
+2025-03-16 13:38:02,603 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-03-16 13:38:02,603 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-03-16 13:38:02,603 - mcp-trends - INFO - Calling tool 'get_interest_by_region' with arguments {'keywords': 'generative ai'}
+2025-03-16 13:38:02,603 - mcp-trends - DEBUG - Looking for tool handler: get_interest_by_region
+2025-03-16 13:38:02,603 - mcp-trends - DEBUG - Running tool get_interest_by_region
+2025-03-16 13:38:02,603 - mcp-trends - ERROR - Error running tool: 'CreateToolHandler_GetTrends_InterestByRegion' object has no attribute 'run_tool'
+2025-03-16 13:38:02,606 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-16 13:57:20,833 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 13:57:20,835 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 13:57:20,835 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001FAC523D5B0>}
+2025-03-16 13:57:20,835 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 13:57:20,835 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 13:57:20,837 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 13:57:20,861 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-16 16:58:16,641 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-16 16:58:16,656 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-16 16:58:16,658 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001AF34EED5B0>}
+2025-03-16 16:58:16,658 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-16 16:58:16,658 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-16 16:58:16,661 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-16 16:58:16,686 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 09:42:41,306 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 09:42:41,311 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 09:42:41,311 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x00000156F2B32A20>}
+2025-03-17 09:42:41,313 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 09:42:41,313 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 09:42:41,313 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 09:42:41,340 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 18:49:14,808 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 18:49:14,811 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 18:49:14,811 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x0000029B5C06EC30>}
+2025-03-17 18:49:14,811 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 18:49:14,813 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 18:49:14,813 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 18:49:14,834 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 18:51:49,831 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 18:51:49,831 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 18:51:49,831 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x00000193701F55B0>}
+2025-03-17 18:51:49,831 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 18:51:49,835 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 18:51:49,835 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 18:51:49,856 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 18:52:15,447 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 18:52:15,447 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 18:52:15,449 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x0000020692332DE0>}
+2025-03-17 18:52:15,449 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 18:52:15,449 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 18:52:15,449 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 18:52:15,463 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 18:52:15,493 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-17 18:52:18,125 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x0000020692823E30>
+2025-03-17 18:52:18,130 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-03-17 18:52:18,130 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-03-17 18:52:18,130 - mcp-trends - DEBUG - Listing all available tools...
+2025-03-17 18:52:18,136 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 18:52:29,829 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x0000020691A5D010>
+2025-03-17 18:52:29,829 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-03-17 18:52:29,829 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-03-17 18:52:29,829 - mcp-trends - INFO - Calling tool 'get_interest_by_region' with arguments {'keywords': 'generative ai'}
+2025-03-17 18:52:29,829 - mcp-trends - DEBUG - Looking for tool handler: get_interest_by_region
+2025-03-17 18:52:29,832 - mcp-trends - DEBUG - Running tool get_interest_by_region
+2025-03-17 18:52:29,832 - mcp-trends - ERROR - Error running tool: 'CreateToolHandler_GetTrends_InterestByRegion' object has no attribute 'run_tool'
+2025-03-17 18:52:29,834 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 18:53:26,739 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 18:53:26,739 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 18:53:26,739 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x00000268B71916D0>}
+2025-03-17 18:53:26,739 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 18:53:26,741 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 18:53:26,741 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 18:53:26,752 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 18:53:32,200 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 18:53:32,202 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 18:53:32,202 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000002347F4D70B0>}
+2025-03-17 18:53:32,202 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 18:53:32,204 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 18:53:32,204 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 18:53:32,226 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 18:53:32,258 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-17 18:53:33,853 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002347F3EEA20>
+2025-03-17 18:53:33,853 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-03-17 18:53:33,853 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-03-17 18:53:33,853 - mcp-trends - DEBUG - Listing all available tools...
+2025-03-17 18:53:33,853 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 18:53:43,837 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002347EA0B830>
+2025-03-17 18:53:43,838 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-03-17 18:53:43,838 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-03-17 18:53:43,838 - mcp-trends - INFO - Calling tool 'get_interest_by_region' with arguments {'keywords': 'generative ai'}
+2025-03-17 18:53:43,838 - mcp-trends - DEBUG - Looking for tool handler: get_interest_by_region
+2025-03-17 18:53:43,838 - mcp-trends - DEBUG - Running tool get_interest_by_region
+2025-03-17 18:53:43,838 - mcp-trends - INFO - Getting interest by region with args: {'keywords': 'generative ai'}
+2025-03-17 18:53:43,850 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 18:53:44,024 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/explore/?geo=US HTTP/1.1" 404 None
+2025-03-17 18:53:44,024 - mcp-trends - DEBUG - Trends client initialized with proxy=https://34.203.233.13:80
+2025-03-17 18:53:44,040 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 18:53:44,325 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "POST /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22g%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22e%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22n%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22e%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22r%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22a%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22t%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22i%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22v%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22e%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22+%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22a%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22i%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%5D%2C+%22category%22%3A+0%2C+%22property%22%3A+%22%22%7D HTTP/1.1" 400 None
+2025-03-17 18:53:44,327 - mcp-trends - ERROR - Failed to get interest by region: The request failed: Google returned a response with code 400
+2025-03-17 18:53:44,327 - mcp-trends - ERROR - Error running tool: The request failed: Google returned a response with code 400
+2025-03-17 18:53:44,331 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 18:57:51,733 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002347ED81E20>
+2025-03-17 18:57:51,733 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-03-17 18:57:51,735 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-03-17 18:57:51,735 - mcp-trends - INFO - Calling tool 'get_interest_by_region' with arguments {'keywords': 'generative ai'}
+2025-03-17 18:57:51,735 - mcp-trends - DEBUG - Looking for tool handler: get_interest_by_region
+2025-03-17 18:57:51,737 - mcp-trends - DEBUG - Running tool get_interest_by_region
+2025-03-17 18:57:51,737 - mcp-trends - INFO - Getting interest by region with args: {'keywords': 'generative ai'}
+2025-03-17 18:57:51,738 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 18:57:52,043 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/explore/?geo=US HTTP/1.1" 404 None
+2025-03-17 18:57:52,043 - mcp-trends - DEBUG - Trends client initialized with proxy=https://34.203.233.13:80
+2025-03-17 18:57:52,054 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 18:57:52,396 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "POST /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22g%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22e%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22n%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22e%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22r%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22a%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22t%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22i%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22v%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22e%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22+%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22a%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22i%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%5D%2C+%22category%22%3A+0%2C+%22property%22%3A+%22%22%7D HTTP/1.1" 400 None
+2025-03-17 18:57:52,396 - mcp-trends - ERROR - Failed to get interest by region: The request failed: Google returned a response with code 400
+2025-03-17 18:57:52,396 - mcp-trends - ERROR - Error running tool: The request failed: Google returned a response with code 400
+2025-03-17 18:57:52,401 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 18:58:45,494 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 18:58:45,494 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 18:58:45,494 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x00000205AD90D5B0>}
+2025-03-17 18:58:45,494 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 18:58:45,494 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 18:58:45,494 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 18:58:45,508 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 18:58:45,526 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-17 18:58:48,972 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x00000205ADCFBF20>
+2025-03-17 18:58:48,973 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-03-17 18:58:48,974 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-03-17 18:58:48,974 - mcp-trends - DEBUG - Listing all available tools...
+2025-03-17 18:58:48,978 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 18:58:49,683 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 18:58:49,685 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 18:58:49,685 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x0000029C92836510>}
+2025-03-17 18:58:49,685 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 18:58:49,685 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 18:58:49,687 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 18:58:49,703 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 18:58:49,723 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-17 18:58:57,973 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x0000029C92516DB0>
+2025-03-17 18:58:57,973 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-03-17 18:58:57,973 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-03-17 18:58:57,973 - mcp-trends - INFO - Calling tool 'get_interest_by_region' with arguments {'keywords': 'gen ai'}
+2025-03-17 18:58:57,973 - mcp-trends - DEBUG - Looking for tool handler: get_interest_by_region
+2025-03-17 18:58:57,973 - mcp-trends - DEBUG - Running tool get_interest_by_region
+2025-03-17 18:58:57,973 - mcp-trends - INFO - Getting interest by region with args: {'keywords': 'gen ai'}
+2025-03-17 18:58:57,991 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 18:58:58,334 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/explore/?geo=US HTTP/1.1" 404 None
+2025-03-17 18:58:58,338 - mcp-trends - DEBUG - Trends client initialized with proxy=https://34.203.233.13:80
+2025-03-17 18:58:58,338 - mcp-trends - INFO - Getting interest by region with keywords: gen ai
+2025-03-17 18:58:58,348 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 18:58:58,644 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "POST /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22g%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22e%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22n%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22+%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22a%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%2C+%7B%22keyword%22%3A+%22i%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%5D%2C+%22category%22%3A+0%2C+%22property%22%3A+%22%22%7D HTTP/1.1" 400 None
+2025-03-17 18:58:58,644 - mcp-trends - ERROR - Failed to get interest by region: The request failed: Google returned a response with code 400
+2025-03-17 18:58:58,644 - mcp-trends - ERROR - Error running tool: The request failed: Google returned a response with code 400
+2025-03-17 18:58:58,644 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 19:01:58,561 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 19:01:58,562 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 19:01:58,562 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001A3D19E5BE0>}
+2025-03-17 19:01:58,562 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 19:01:58,562 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 19:01:58,563 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 19:01:58,581 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 19:01:58,613 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-17 19:02:00,073 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001A3D19FFDD0>
+2025-03-17 19:02:00,074 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-03-17 19:02:00,074 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-03-17 19:02:00,074 - mcp-trends - DEBUG - Listing all available tools...
+2025-03-17 19:02:00,074 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 19:02:06,453 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001A3D16C3830>
+2025-03-17 19:02:06,454 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-03-17 19:02:06,454 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-03-17 19:02:06,454 - mcp-trends - INFO - Calling tool 'get_interest_by_region' with arguments {'keywords': 'gen ai'}
+2025-03-17 19:02:06,454 - mcp-trends - DEBUG - Looking for tool handler: get_interest_by_region
+2025-03-17 19:02:06,454 - mcp-trends - DEBUG - Running tool get_interest_by_region
+2025-03-17 19:02:06,454 - mcp-trends - INFO - Getting interest by region with args: {'keywords': 'gen ai'}
+2025-03-17 19:02:06,461 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:02:06,970 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/explore/?geo=US HTTP/1.1" 404 None
+2025-03-17 19:02:06,972 - mcp-trends - DEBUG - Trends client initialized with proxy=https://34.203.233.13:80
+2025-03-17 19:02:06,972 - mcp-trends - INFO - Getting interest by region with keywords: gen ai
+2025-03-17 19:02:06,972 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:02:07,292 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "POST /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22gen+ai%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%5D%2C+%22category%22%3A+0%2C+%22property%22%3A+%22%22%7D HTTP/1.1" 200 None
+2025-03-17 19:02:07,300 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:02:07,775 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/api/widgetdata/comparedgeo?req=%7B%22geo%22%3A+%7B%7D%2C+%22comparisonItem%22%3A+%5B%7B%22time%22%3A+%222020-03-17+2025-03-17%22%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22gen+ai%22%7D%5D%7D%7D%5D%2C+%22resolution%22%3A+%22COUNTRY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%2C+%22includeLowSearchVolumeGeos%22%3A+false%7D&token=APP6_UEAAAAAZ9l1168fwZO0wlLKL98YKECgzw3ylmwk&tz=360 HTTP/1.1" 429 None
+2025-03-17 19:02:07,775 - mcp-trends - ERROR - Failed to get interest by region: The request failed: Google returned a response with code 429
+2025-03-17 19:02:07,779 - mcp-trends - ERROR - Error running tool: The request failed: Google returned a response with code 429
+2025-03-17 19:02:07,779 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 19:08:53,628 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 19:08:53,628 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 19:08:53,630 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x0000016FD85BDBE0>}
+2025-03-17 19:08:53,630 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 19:08:53,631 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 19:08:53,631 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 19:08:53,649 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 19:08:53,681 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-17 19:08:54,578 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 19:08:54,581 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 19:08:54,581 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000001C5B699CEC0>}
+2025-03-17 19:08:54,583 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 19:08:54,584 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 19:08:54,584 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 19:08:54,603 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 19:08:54,636 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-17 19:08:55,522 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001C5B6D142F0>
+2025-03-17 19:08:55,522 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-03-17 19:08:55,522 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-03-17 19:08:55,522 - mcp-trends - DEBUG - Listing all available tools...
+2025-03-17 19:08:55,528 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 19:08:59,724 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000001C5B6C9B830>
+2025-03-17 19:08:59,724 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-03-17 19:08:59,724 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-03-17 19:08:59,724 - mcp-trends - INFO - Calling tool 'get_interest_by_region' with arguments {'keywords': 'gen ai'}
+2025-03-17 19:08:59,724 - mcp-trends - DEBUG - Looking for tool handler: get_interest_by_region
+2025-03-17 19:08:59,724 - mcp-trends - DEBUG - Running tool get_interest_by_region
+2025-03-17 19:08:59,726 - mcp-trends - INFO - Getting interest by region with args: {'keywords': 'gen ai'}
+2025-03-17 19:08:59,736 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:09:00,137 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/explore/?geo=US HTTP/1.1" 404 None
+2025-03-17 19:09:00,141 - mcp-trends - DEBUG - Trends client initialized with proxy=https://34.203.233.13:80
+2025-03-17 19:09:00,141 - mcp-trends - INFO - Getting interest by region with keywords: gen ai
+2025-03-17 19:09:00,144 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:09:00,445 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "POST /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22gen+ai%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%5D%2C+%22category%22%3A+0%2C+%22property%22%3A+%22%22%7D HTTP/1.1" 200 None
+2025-03-17 19:09:00,450 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:09:00,855 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/api/widgetdata/comparedgeo?req=%7B%22geo%22%3A+%7B%7D%2C+%22comparisonItem%22%3A+%5B%7B%22time%22%3A+%222020-03-17+2025-03-17%22%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22gen+ai%22%7D%5D%7D%7D%5D%2C+%22resolution%22%3A+%22COUNTRY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%2C+%22includeLowSearchVolumeGeos%22%3A+false%7D&token=APP6_UEAAAAAZ9l3dBDYGsGpSnsgoL0HEhmJInHESfCc&tz=360 HTTP/1.1" 200 None
+2025-03-17 19:09:00,956 - mcp-trends - INFO - Successfully fetched results
+2025-03-17 19:09:00,965 - mcp-trends - DEBUG - API response:                    gen ai
+geoName                  
+Afghanistan             0
+Albania                 0
+Algeria                 0
+American Samoa          0
+Andorra                 0
+Angola                  0
+Anguilla                0
+Antarctica              0
+Antigua & Barbuda       0
+Argentina               3
+2025-03-17 19:09:00,972 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 19:34:08,147 - mcp.server.lowlevel.server - DEBUG - Initializing server 'mcp-trends-server'
+2025-03-17 19:34:08,147 - mcp-trends - DEBUG - Registering tool handler: get_interest_by_region
+2025-03-17 19:34:08,150 - mcp-trends - DEBUG - Registered tool_handlers: {'get_interest_by_region': <mcp_trends.tools.CreateToolHandler_GetTrends_InterestByRegion object at 0x000002335D97D4F0>}
+2025-03-17 19:34:08,150 - mcp.server.lowlevel.server - DEBUG - Registering handler for ListToolsRequest
+2025-03-17 19:34:08,150 - mcp.server.lowlevel.server - DEBUG - Registering handler for CallToolRequest
+2025-03-17 19:34:08,151 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-03-17 19:34:08,163 - mcp-trends - INFO - Starting Trends MCP server via mcp dev
+2025-03-17 19:34:08,199 - mcp.server.lowlevel.server - DEBUG - Received message: root=InitializedNotification(method='notifications/initialized', params=None, jsonrpc='2.0')
+2025-03-17 19:34:10,314 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002335D27B920>
+2025-03-17 19:34:10,314 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-03-17 19:34:10,314 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type ListToolsRequest
+2025-03-17 19:34:10,314 - mcp-trends - DEBUG - Listing all available tools...
+2025-03-17 19:34:10,323 - mcp.server.lowlevel.server - DEBUG - Response sent
+2025-03-17 19:34:15,199 - mcp.server.lowlevel.server - DEBUG - Received message: <mcp.shared.session.RequestResponder object at 0x000002335D2C77D0>
+2025-03-17 19:34:15,202 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-03-17 19:34:15,202 - mcp.server.lowlevel.server - DEBUG - Dispatching request of type CallToolRequest
+2025-03-17 19:34:15,202 - mcp-trends - INFO - Calling tool 'get_interest_by_region' with arguments {'keywords': 'gen ai'}
+2025-03-17 19:34:15,202 - mcp-trends - DEBUG - Looking for tool handler: get_interest_by_region
+2025-03-17 19:34:15,202 - mcp-trends - DEBUG - Running tool get_interest_by_region
+2025-03-17 19:34:15,202 - mcp-trends - INFO - Getting interest by region with args: {'keywords': 'gen ai'}
+2025-03-17 19:34:15,210 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:34:15,474 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/explore/?geo=US HTTP/1.1" 404 None
+2025-03-17 19:34:15,477 - mcp-trends - DEBUG - Trends client initialized with proxy=https://34.203.233.13:80
+2025-03-17 19:34:15,477 - mcp-trends - INFO - Getting interest by region with keywords: gen ai
+2025-03-17 19:34:15,481 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:34:15,805 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "POST /trends/api/explore?hl=en-US&tz=360&req=%7B%22comparisonItem%22%3A+%5B%7B%22keyword%22%3A+%22gen+ai%22%2C+%22time%22%3A+%22today+5-y%22%2C+%22geo%22%3A+%22%22%7D%5D%2C+%22category%22%3A+0%2C+%22property%22%3A+%22%22%7D HTTP/1.1" 200 None
+2025-03-17 19:34:15,810 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): trends.google.com:443
+2025-03-17 19:34:16,160 - urllib3.connectionpool - DEBUG - https://trends.google.com:443 "GET /trends/api/widgetdata/comparedgeo?req=%7B%22geo%22%3A+%7B%7D%2C+%22comparisonItem%22%3A+%5B%7B%22time%22%3A+%222020-03-17+2025-03-17%22%2C+%22complexKeywordsRestriction%22%3A+%7B%22keyword%22%3A+%5B%7B%22type%22%3A+%22BROAD%22%2C+%22value%22%3A+%22gen+ai%22%7D%5D%7D%7D%5D%2C+%22resolution%22%3A+%22COUNTRY%22%2C+%22locale%22%3A+%22en-US%22%2C+%22requestOptions%22%3A+%7B%22property%22%3A+%22%22%2C+%22backend%22%3A+%22IZG%22%2C+%22category%22%3A+0%7D%2C+%22userConfig%22%3A+%7B%22userType%22%3A+%22USER_TYPE_SCRAPER%22%7D%2C+%22includeLowSearchVolumeGeos%22%3A+false%7D&token=APP6_UEAAAAAZ9l9YGHShR1ludQ16TJqVDKoiNRGSDSI&tz=360 HTTP/1.1" 429 None
+2025-03-17 19:34:16,161 - mcp-trends - ERROR - Failed to get interest by region: The request failed: Google returned a response with code 429
+2025-03-17 19:34:16,161 - mcp-trends - ERROR - Error running tool: The request failed: Google returned a response with code 429
+2025-03-17 19:34:16,165 - mcp.server.lowlevel.server - DEBUG - Response sent
